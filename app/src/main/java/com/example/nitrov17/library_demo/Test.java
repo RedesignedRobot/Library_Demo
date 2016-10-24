@@ -10,6 +10,6 @@ public class Test {
     String name;
     public void fun(String[] a)
     {
-        //Magic
+        //Magic Stuff
     }
 }
