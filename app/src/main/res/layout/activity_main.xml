@@ -17,7 +17,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="AAXS Delivery"
+        android:text="Delivery"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="90sp"
         android:textSize="36sp"
